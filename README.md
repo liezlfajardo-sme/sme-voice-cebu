@@ -1,2 +1,2 @@
-# painpoint-monitor-miami
-Read-only Reddit collector for small-business pain-point research (Miami)
+# sme-voice-cebu
+Read-only Reddit harvester for small-business pain-point research in Cebu and Bohol, Philippines
